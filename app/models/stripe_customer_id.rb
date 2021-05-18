@@ -1,0 +1,2 @@
+class StripeCustomerId < ApplicationRecord
+end
